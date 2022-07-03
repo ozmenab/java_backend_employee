@@ -1,4 +1,4 @@
-package com.abdullahozmen.repository;
+package com.abdullahozmen.data.repository;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

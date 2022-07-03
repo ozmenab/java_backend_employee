@@ -1,4 +1,4 @@
-package com.abdullahozmen.dto;
+package com.abdullahozmen.business.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

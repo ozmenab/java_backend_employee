@@ -1,4 +1,4 @@
-package com.abdullahozmen.entity;
+package com.abdullahozmen.data.entity;
 
 import lombok.Getter;
 import lombok.Setter;
